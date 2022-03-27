@@ -1,0 +1,3 @@
+U - Untracked -> No rastreado -> Archivos nuevos (que se acaban de crear)
+M - Modified -> Modificado -> Archivos que ya existen y que sufrieron cambios
+D - Deleted -> Archivo eliminado.
